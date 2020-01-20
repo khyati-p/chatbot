@@ -64,7 +64,7 @@ class ChatController extends Controller
     $reply=Chat::where('question','=',$in)->get();
      if(count($reply)==0)
      {
-         return response()->json(["input"=>"I cant understand"]);
+         return response()->json("I cant understand");
      }
      else {
         // $query=$reply["input"];
