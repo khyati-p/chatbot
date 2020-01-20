@@ -29,11 +29,11 @@
 
         
         <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-block btn-lg" name="sign_up">Sign Up</button>
+            <button type="submit" class="btn btn-primary btn-block btn-lg" name="sign_up">Login</button>
         </div>
          
     </form>
-    <div class="text-center small">Already have an account? <a href="signin.php">Signin here</a></div>
+    //<div class="text-center small">Already have an account? <a href="signin.php">Signin here</a></div>
 </div>
 </body>
 </html>   
