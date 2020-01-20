@@ -33,7 +33,7 @@
         </div>
          
     </form>
-    //<div class="text-center small">Already have an account? <a href="signin.php">Signin here</a></div>
+    <!--<div class="text-center small">Already have an account? <a href="signin.php">Signin here</a></div>-->
 </div>
 </body>
 </html>   
