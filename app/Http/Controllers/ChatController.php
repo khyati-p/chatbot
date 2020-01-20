@@ -40,7 +40,7 @@ class ChatController extends Controller
               
 //           }
 
-        return "adithya";
+        return "khyati";
 }  
 
 //return $data;
@@ -75,7 +75,7 @@ class ChatController extends Controller
 
     
 
-    //return response()->json(["input"=>"adithya","reply"=>$reply]);
+    //return response()->json(["input"=>"khyati","reply"=>$reply]);
     
   }
 }
